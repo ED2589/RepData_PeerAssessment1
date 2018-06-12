@@ -1,8 +1,9 @@
 ---
-title: "Reproducible Research: Peer Assessment 1 (Elisa Du)"
-output: 
+title: 'Reproducible Research: Peer Assessment 1 (Elisa Du)'
+output:
+  pdf_document: default
   html_document:
-    keep_md: true
+    keep_md: yes
 ---
 Load some packages.
 ```{r Packages, echo=TRUE,results='hide'}
